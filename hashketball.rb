@@ -54,7 +54,12 @@ def game_hash
           :blocks => 11,
           :slam_dunks => 1 
         }
-             
+      ]
+    },
+    :away => {
+      :team_name => "Charlotte Hornets",
+      :colors => ["Turquoise", "Purple"],
+      :players => [  
         :name => {
           :number => ,
           :shoe => ,
@@ -65,12 +70,43 @@ def game_hash
           :blocks => ,
           :slam_dunks => 
         },
-       ]
-    },
-    :away => {
-      :team_name => "Brooklyn Nets",
-      :colors => ["Black", "White"],
-      :players => [      
+                :name => {
+          :number => ,
+          :shoe => ,
+          :points => ,
+          :rebounds => ,
+          :assists => ,
+          :steals => ,
+          :blocks => ,
+          :slam_dunks => 
+        },        :name => {
+          :number => ,
+          :shoe => ,
+          :points => ,
+          :rebounds => ,
+          :assists => ,
+          :steals => ,
+          :blocks => ,
+          :slam_dunks => 
+        },        :name => {
+          :number => ,
+          :shoe => ,
+          :points => ,
+          :rebounds => ,
+          :assists => ,
+          :steals => ,
+          :blocks => ,
+          :slam_dunks => 
+        },        :name => {
+          :number => ,
+          :shoe => ,
+          :points => ,
+          :rebounds => ,
+          :assists => ,
+          :steals => ,
+          :blocks => ,
+          :slam_dunks => 
+        },
     }
   }
   
